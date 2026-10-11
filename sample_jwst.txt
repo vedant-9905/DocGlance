@@ -1,0 +1,7 @@
+The James Webb Space Telescope (JWST) was launched on December 25, 2021, aboard an Ariane 5 rocket from Kourou, French Guiana.
+It operates in a halo orbit around the Sun-Earth Lagrange point 2 (L2), located approximately 1.5 million kilometers (930,000 miles) beyond Earth's orbit.
+JWST's primary mirror consists of 18 hexagonal mirror segments made of gold-plated beryllium, creating a combined mirror with a diameter of 6.5 meters.
+Its primary science instruments include the Near-Infrared Camera (NIRCam), the Near-Infrared Spectrograph (NIRSpec), the Mid-Infrared Instrument (MIRI), and the Fine Guidance Sensor/Near InfraRed Imager and Slitless Spectrograph (FGS/NIRISS).
+The telescope's sunshield is roughly the size of a tennis court and composed of five layers of Kapton coated with aluminum and silicon.
+JWST was developed through an international partnership between NASA, the European Space Agency (ESA), and the Canadian Space Agency (CSA).
+The total mission cost for NASA is estimated at approximately $10 billion over its lifetime.

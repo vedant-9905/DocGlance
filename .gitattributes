@@ -1,0 +1,12 @@
+# .gitattributes — consistent line endings across platforms
+* text=auto eol=lf
+
+# Force binary for assets
+*.ico binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.svg text
+*.woff2 binary
+*.woff binary
+*.ttf binary

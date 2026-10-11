@@ -1,0 +1,77 @@
+# ──────────────────────────────────────────────
+# Root .gitignore for DocGlance
+# ──────────────────────────────────────────────
+
+# ── OS ─────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# ── Editor ─────────────────────────────────────
+.vscode/
+.idea/
+*.iml
+*.suo
+*.user
+.history/
+
+# ── Python ─────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# ── Backend specific ────────────────────────────
+backend/chroma_db/
+backend/uploads/
+backend/.env
+*.db
+*.sqlite
+
+# HuggingFace model cache (downloaded at runtime)
+.cache/
+backend/.cache/
+
+# ── Frontend specific ───────────────────────────
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.turbo/
+frontend/.vercel/
+
+# Env
+frontend/.env.local
+frontend/.env.production
+
+# ── Logs ───────────────────────────────────────
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ── Misc ───────────────────────────────────────
+*.bak
+*.tmp
+
+.npm-cache/
