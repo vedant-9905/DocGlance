@@ -1,0 +1,6 @@
+customer_id,tier,arr_usd,nps_score,churn_risk
+101,Enterprise,45000,9,Low
+102,Pro,12000,8,Low
+103,Free,0,7,High
+104,Enterprise,85000,10,Low
+105,Pro,18000,8,Medium

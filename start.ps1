@@ -15,7 +15,7 @@ Start-Process powershell -ArgumentList @(
 Start-Process powershell -ArgumentList @(
     "-NoExit",
     "-Command",
-    "cd '$root\frontend'; npm run dev"
+    "cd '$root\frontend'; if (!(Test-Path node_modules)) { npm install }; npm run dev"
 ) -WindowStyle Normal
 
 Write-Host ""
